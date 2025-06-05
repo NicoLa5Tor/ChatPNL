@@ -1,0 +1,7 @@
+ACCESS_TOKEN_WHATSAPP = "EAAOfVrTWw5cBO1ikUmdptvWwGrAkhzIIZBQVnmoytRC6Dz2mAFqoSdOBqZCaIRwcVgH7AcsJ6HzcHRx2K5XMYhZC9dBOMlKYZChcZB6cULalwZAedZAjNZBZC0VcWGAr5eUj0HVwoZBVlyczuqKvSu3tqluN31fy6rjz4VlIGZCxfSFM2ituSTuiZA9ojEqlATzHjYHdDFPWgG3m55i5eCDwheM7YAZDZD"
+URL_VOZ_TEXTO = "http://localhost:5000/api/transcribe"
+PHONE_NUMBER = "747111611818079"
+URL_ENVIO = f"https://graph.facebook.com/v22.0/{PHONE_NUMBER}/messages"
+URL_TEXTO_VOZ="http://127.0.0.1:5002/text-to-speech"
+URL_INFO_MEDIA="https://graph.facebook.com/v22.0"
+URL_CLOUDFLARE = "https://bios-hampshire-republic-structural.trycloudflare.com"
